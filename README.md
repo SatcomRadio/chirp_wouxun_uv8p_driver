@@ -10,7 +10,7 @@ To run it, please follow this instructions:
 
 1 - Make sure you have a **recent** version Chirp. You can download the latest version from its [official site](https://chirpmyradio.com/projects/chirp/wiki/Download#)
 
-2 - Download the kg-uv8p driver from [here](https://github.com/SatcomRadio/wouxun_kguv8p_chirp_driver/blob/main/kguv8p.py)
+2 - Download the kg-uv8p driver from [here](https://github.com/SatcomRadio/chirp_wouxun_uv8p_driver/blob/main/kguv8p.py)
 
 You need to press this button to download the file
 
